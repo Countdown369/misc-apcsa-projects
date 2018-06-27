@@ -1,1 +1,1 @@
-Traverse at your own risk! Me learning how to use Java in AP Computer Science A.
+Traverse at your own risk! Me learning how to use Java in AP Computer Science A, as well as a couple of little exploratory projects.
